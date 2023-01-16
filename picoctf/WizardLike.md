@@ -1,9 +1,9 @@
 A video game cheater's solution of picoCTF Wizardlike
 
 Requirements:
-Cheat Engine/Lunar Engine
-ceserver for linux
-Some debugger (ideally with decompile)
+- Cheat Engine/Lunar Engine
+- ceserver for linux
+- Some debugger (ideally with decompile)
 
 As a video game cheater, my first intuition was step was to find the x and y coord values in lunar engine and set these to complete the challenges. You can do this by searching for an all type unknown value and researching for when you expect it to change (when you move) and when you don't expect it to change (standing still) to find the correct values. Doing this provides us with two 4 byte values at game+132F70 and game+132F74 (x, y).
 
