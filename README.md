@@ -4,4 +4,4 @@ Collection of relevant ctf-writeups. I will likely use unintended, inideal, and 
 
 # Todo
 - Put an index here
-- Resolve some challenges to write the solutions here
+- Re-solve some challenges to write the solutions here
